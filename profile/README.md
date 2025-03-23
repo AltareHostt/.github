@@ -49,7 +49,7 @@ Upgrade when you need **more power**! 🦾💥
 
 ## 📞 Support & Community
 
-💬 **Join our Discord:** [discord.gg/yBvbtwfYST](https://discord.gg/strengthcloud)  
+💬 **Join our Discord:** [discord.gg/strengthcloud](https://discord.gg/strengthcloud)  
 📧 **Contact Us:** support@strengthcloud.fun 
 🛠 **Website:** [strengthcloud.fun](https://strengthcloud.fun)
 
