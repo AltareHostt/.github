@@ -1,6 +1,6 @@
-# 🌟 StrengthCloud - The Ultimate Hosting Experience 🚀
+# 🌟 DeadlyClouds - The Ultimate Hosting Experience 🚀
 
-Welcome to **StrengthCloud**, where servers run smoother than your WiFi at 3 AM! Whether you need a **Minecraft server**, **Discord bot hosting**, or a **powerful VPS**, we’ve got you covered with both **free** and **paid** options! 💸✨
+Welcome to **DeadlyClouds**, where servers run smoother than your WiFi at 3 AM! Whether you need a **Minecraft server**, **Discord bot hosting**, or a **powerful VPS**, we’ve got you covered with both **free** and **paid** options! 💸✨
 
 ---
 
@@ -40,7 +40,7 @@ Upgrade when you need **more power**! 🦾💥
 
 ## 🚀 Getting Started
 
-1️⃣ **Sign Up** on our dashboard: [dash.strengthcloud.fun](https://dash.strengthcloud.fun)  
+1️⃣ **Sign Up** on our dashboard: [dash.DeadlyClouds.xyz](https://dash.DeadlyClouds.xyz)  
 2️⃣ **Choose a Plan** (Free or Paid)  
 3️⃣ **Deploy Your Server** – It’s that easy! 🏗️  
 4️⃣ **Enjoy Lag-Free Hosting!** 🎉
@@ -49,9 +49,9 @@ Upgrade when you need **more power**! 🦾💥
 
 ## 📞 Support & Community
 
-💬 **Join our Discord:** [discord.gg/strengthcloud](https://discord.gg/strengthcloud)  
-📧 **Contact Us:** support@strengthcloud.fun 
-🛠 **Website:** [strengthcloud.fun](https://strengthcloud.fun)
+💬 **Join our Discord:** [discord.gg/DeadlyClouds](https://discord.gg/DeadlyClouds)  
+📧 **Contact Us:** support@DeadlyClouds
+🛠 **Website:** [DeadlyClouds.xyz](https://DeadlyClouds.xyz)
 
 Have an issue? Our support team is faster than a creeper chasing you at night! 🏃💨
 
@@ -67,7 +67,7 @@ Because **good hosting should be accessible to everyone**. Whether you're a brok
 
 ## 🎉 Ready to Get Started?
 
-🚀 [**Sign up now**](https://dash.strengthcloud.fun) and launch your server in minutes!  
+🚀 [**Sign up now**](https://dash.DeadlyClouds.xyz) and launch your server in minutes!  
 💡 Have questions? Hit us up in Discord!  
 
-📢 **Strength Cloud – Hosting So Good, Even Your Grandma Approves!** 👵✅
+📢 **DeadlyClouds – Hosting So Good, Even Your Grandma Approves!** 👵✅
