@@ -50,7 +50,7 @@ Upgrade when you need **more power**! 🦾💥
 ## 📞 Support & Community
 
 💬 **Join our Discord:** [discord.gg/AltareHost](https://discord.gg/CNuF5SDBXz)  
-📧 **Contact Us:** support@pheonixclouds.xyz
+📧 **Contact Us:** support@altarehost.xyz
 🛠 **Website:** [altarehost.xyz](https://redefinedstudios.qzz.io/)
 
 Have an issue? Our support team is faster than a creeper chasing you at night! 🏃💨
