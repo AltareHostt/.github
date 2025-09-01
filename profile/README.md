@@ -1,6 +1,6 @@
-# 🌟 PheonixClouds - The Ultimate Hosting Experience 🚀
+# 🌟 AltareHost - The Ultimate Hosting Experience 🚀
 
-Welcome to **PheonixClouds**, where servers run smoother than your WiFi at 3 AM! Whether you need a **Minecraft server**, **Discord bot hosting**, or a **powerful VPS**, we’ve got you covered with both **free** and **paid** options! 💸✨
+Welcome to **AltareHost**, where servers run smoother than your WiFi at 3 AM! Whether you need a **Minecraft server**, **Discord bot hosting**, or a **powerful VPS**, we’ve got you covered with both **free** and **paid** options! 💸✨
 
 ---
 
@@ -40,7 +40,7 @@ Upgrade when you need **more power**! 🦾💥
 
 ## 🚀 Getting Started
 
-1️⃣ **Sign Up** on our dashboard: [dash.PheonixClouds.xyz](https://dash.PheonixClouds.xyz)  
+1️⃣ **Sign Up** on our dashboard: [dash.AltareHost.xyz](https://dash.AltareHost.xyz)  
 2️⃣ **Choose a Plan** (Free or Paid)  
 3️⃣ **Deploy Your Server** – It’s that easy! 🏗️  
 4️⃣ **Enjoy Lag-Free Hosting!** 🎉
@@ -49,9 +49,9 @@ Upgrade when you need **more power**! 🦾💥
 
 ## 📞 Support & Community
 
-💬 **Join our Discord:** [discord.gg/PheonixClouds](https://discord.gg/PheonixClouds)  
+💬 **Join our Discord:** [discord.gg/AltareHost](https://discord.gg/CNuF5SDBXz)  
 📧 **Contact Us:** support@pheonixclouds.xyz
-🛠 **Website:** [pheonixclouds.xyz](https://pheonixclouds.xyz)
+🛠 **Website:** [altarehost.xyz](https://redefinedstudios.qzz.io/)
 
 Have an issue? Our support team is faster than a creeper chasing you at night! 🏃💨
 
@@ -61,13 +61,13 @@ Have an issue? Our support team is faster than a creeper chasing you at night! �
 
 Because **good hosting should be accessible to everyone**. Whether you're a broke student, an indie dev, or a serious business, we've got the right plan for you.
 
-> "At PheonixClouds, we don't just host servers; we host dreams!" ✨
+> "At AltareHost, we don't just host servers; we host dreams!" ✨
 
 ---
 
 ## 🎉 Ready to Get Started?
 
-🚀 [**Sign up now**](https://dash.pheonixclouds.xyz) and launch your server in minutes!  
+🚀 [**Sign up now**](https://dash.AltareHost.xyz) and launch your server in minutes!  
 💡 Have questions? Hit us up in Discord!  
 
-📢 **PheonixClouds – Hosting So Good, Even Your Grandma Approves!** 👵✅
+📢 **AltareHost – Hosting So Good, Even Your Grandma Approves!** 👵✅
