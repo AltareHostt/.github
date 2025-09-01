@@ -13,7 +13,7 @@ Welcome to **AltareHost**, where servers run smoother than your WiFi at 3 AM! Wh
 
 ---
 
-## 🚀 Why Choose PheonixClouds?
+## 🚀 Why Choose AltareHost?
 
 ✅ **Blazing Fast Servers** – No more lag spikes ruining your vibe. 🚀  
 ✅ **DDoS Protection** – Because hackers have better things to do. 🛡️  
@@ -50,7 +50,7 @@ Upgrade when you need **more power**! 🦾💥
 ## 📞 Support & Community
 
 💬 **Join our Discord:** [discord.gg/AltareHost](https://discord.gg/CNuF5SDBXz)  
-📧 **Contact Us:** support@altarehost.xyz
+📧 **Contact Us:** support@altarehost.xyz                                                   
 🛠 **Website:** [altarehost.xyz](https://redefinedstudios.qzz.io/)
 
 Have an issue? Our support team is faster than a creeper chasing you at night! 🏃💨
